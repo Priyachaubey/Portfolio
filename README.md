@@ -49,15 +49,20 @@ software engineering.
 ![image](https://github.com/Priyachaubey/Portfolio/assets/145207719/c3e08064-f8bf-4a94-8937-8a2ba4e0a2c9)
 
 The “About” section details her skills and experience in web development
-(image-1.png)
+![image](https://github.com/Priyachaubey/Portfolio/assets/145207719/690a54e4-c0b6-417a-8582-ba5c14a99642)
+
 Our Projects
-(<image copy.png>)
-![alt text](image-2.png)
+![image](https://github.com/Priyachaubey/Portfolio/assets/145207719/ced54e99-6318-4f8b-81ec-48ff1f5c1e57)
+
+![image](https://github.com/Priyachaubey/Portfolio/assets/145207719/9ae152cd-78d2-4df8-beee-e840cdabc11b)
+
 Use HTML for the form structure, CSS for styling, and JavaScript for form validation and handling user interactions.
-![alt text](image-3.png)
+![image](https://github.com/Priyachaubey/Portfolio/assets/145207719/461ada5d-dfb0-4d1c-9d27-2a0754fe3932)
+
 
 Lastly the footer of our home page
-![alt text](image-4.png)
+![image](https://github.com/Priyachaubey/Portfolio/assets/145207719/e01d2bf2-ef39-4e97-a65c-03c7a4af7765)
+
 
 Functional requirements describe the specific features and functionalities of the website. These include:
 
@@ -77,4 +82,5 @@ Performance.
 - Scalability.
 
 Use case daigram:
-![alt text](../image.png)
+![image](https://github.com/Priyachaubey/Portfolio/assets/145207719/e6e8f3ab-a4dd-4b5a-a1e2-4d51843ba104)
+
