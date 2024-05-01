@@ -1,7 +1,7 @@
 # Portfolio
 
 SRS Document of these Portfolio Website
-[text](<dist/srs document/SRS Document (1).pdf>)
+https://github.com/Priyachaubey/Portfolio/tree/main/dist/srs%20document
 
 The purpose of creating a portfolio website for you, as a developer, is to 
 showcase your skills, projects, and experience to potential clients, 
